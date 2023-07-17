@@ -1,5 +1,4 @@
 # Regulatory Compliance Ontology for Anti-Money Laundering Regulations: AML-RCO.
-Regulatory Compliance Ontology for Anti-Money Laundering Regulations.
 
 The Anti-Money Laundering (AML) Regulatory Compliance Ontology (RCO) is founded on the formal representation of financial domain behaviours and the AML regulation’s provisions for addressing Regulatory Compliance Monitoring (RCM), which directly supports Regulatory Compliance Reporting in the Asset Management and Investment Funds (AMIF) domain. The AML-RCO ontology comprises a domain ontology, AMIF-Banking, and an operational ontology, AMIF Suspicious Transaction Detection. 
 AMIF-Banking ontology is based on FIBO [1]. FIBO is also based on upper ontologies, such as SKOS [2] and Country Representation [3]. The FIBO modules that were included in AMIF-Banking are FIBO-Core, FND (Foundations), IND (Indices and Indicators) and FBC (Financial Business and Commerce.
